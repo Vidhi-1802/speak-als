@@ -1,0 +1,6 @@
+Metric,SVM,CNN
+Accuracy,0.8974,0.9231
+Precision,0.931,0.9643
+Recall,0.931,0.931
+F1-Score,0.931,0.9474
+ROC-AUC,0.9621,0.9759
